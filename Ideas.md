@@ -1,0 +1,2 @@
+- In the frontflip image, I could create a Poll to see if the people thought is was real/fake, or if I did make it. **Problem** = Might need server for this, but probably a very simple one. Or, I can just encourage visitors to contact me with their thoughts.
+- 
