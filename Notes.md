@@ -1,2 +1,3 @@
 - **https://validator.w3.org/** - This website allows me to verify if my html code has errors or not
 - **https://jigsaw.w3.org/css-validator/** - This website allows me to verify if my css code has errors or not
+- **CSS**: Use ```#``` to select an id and ```.``` to select a class. A class is for a group of elements and an id is for a single element.
